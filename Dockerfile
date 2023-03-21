@@ -1,2 +1,2 @@
-FROM php:8.0.26-fpm-bullseye
+FROM php:8.2.4-fpm-bullseye
 RUN something
